@@ -1,0 +1,6 @@
+matplotlib
+numpy
+nuscenes-devkit
+pyquaternion
+Pillow
+setuptools
